@@ -1,0 +1,40 @@
+.gameBoard {
+    background-image: url("tablematt.jpg");
+    background-repeat:no-repeat;
+    background-image: auto;
+    background-size: auto;
+    background-size: cover;
+    border: 2px solid black;
+    width: 85%;
+    height: 15rem;
+    padding: 1rem;
+    margin: 10px;
+    position:relative;
+}
+
+.players {
+    background-color: rgb(144, 146, 238);
+    border: 2px solid black;
+    width: 65%;
+    padding: 1rem;
+    margin: 10px;
+}
+
+cardDiv{
+    width: 20%;
+    padding: 1rem;
+    margin: 10px;
+    border: 2px solid black;
+    width: 20%;
+}
+
+potDiv {
+    width: 15%;
+    padding: 1rem;
+    margin: 10px;
+    border: 2px solid black;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+  };
+
